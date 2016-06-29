@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user>
+		<name>John</name>
+		<surname>Smith</surname>
+		<title>mister</title>
+	</user>
+	<user>
+		<name>
+			<first>Henry</first>
+			<second>James</second>
+		</name>
+		<surname>Jekyll</surname>
+		<title>doctor</title>
+	</user>
+	<user>
+		<name>Albert</name>
+		<surname>Einstein</surname>
+		<title>professor</title>
+	</user>
+</users> 
